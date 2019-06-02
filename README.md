@@ -1,5 +1,7 @@
 # Ssz
 
+[![CircleCI](https://circleci.com/gh/timjp87/elixir-ssz.svg?style=svg)](https://circleci.com/gh/timjp87/elixir-ssz)
+
 WIP Implementation of the Simple Serialize specification for Ethereum 2.0.
 
 ## Installation
