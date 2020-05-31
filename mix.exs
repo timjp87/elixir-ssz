@@ -3,7 +3,7 @@ defmodule Ssz.MixProject do
 
   def project do
     [
-      app: :ssz,
+      app: :elixir_ssz,
       version: "0.1.0",
       elixir: "~> 1.8",
       description: description(),
